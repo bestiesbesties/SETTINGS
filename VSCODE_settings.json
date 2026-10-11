@@ -1,13 +1,9 @@
 {
-    "terminal.integrated.suggest.enabled": true,
-    "terminal.integrated.shellIntegration.enabled": true,
-    "terminal.integrated.suggest.quickSuggestions": true,
-    "terminal.integrated.suggest.suggestOnTriggerCharacters": true,
     "editor.fontFamily": "Arial",
     "editor.autoClosingBrackets": "never",
     "editor.autoClosingComments": "never",
     "editor.autoClosingQuotes": "never",
-    "editor.fontSize": 16,
+    "editor.fontSize": 12,
     "editor.parameterHints.enabled": true,
     "editor.lightbulb.enabled": "off",
     "editor.fontLigatures": false,
@@ -28,13 +24,12 @@
     "workbench.iconTheme": null,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "window.zoomLevel": 1,
-    "window.commandCenter": false,
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "line",
     "editor.showFoldingControls": "never",
     "editor.overviewRulerBorder": false,
-    "editor.tabCompletion": "on",
-    "terminal.integrated.fontFamily": "monospace",
+    "editor.tabCompletion": "off",
+    "terminal.integrated.fontFamily": "Melno",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
     "extensions.ignoreRecommendations": true,
     "python.defaultInterpreterPath": "/usr/local/bin/python3",
@@ -90,7 +85,9 @@
         "titleBar.inactiveForeground": "#e7e7e799",
         "commandCenter.foreground": "#e7e7e7",
         "statusBar.debuggingBackground": "#000000",
-        "statusBar.debuggingForeground": "#e7e7e7"
+        "statusBar.debuggingForeground": "#e7e7e7",
+        "statusBar.inactiveBackground": "#000000", 
+        "statusBar.inactiveForeground": "#e7e7e7"
     },
     "github.copilot.enable": {
         "*": false,
@@ -101,6 +98,7 @@
     "chat.checkpoints.enabled": false,
     "github.copilot.nextEditSuggestions.enabled": true,
     "terminal.integrated.initialHint": false,
+    "terminal.integrated.fontSize": 12,
     "editor.minimap.enabled": false,
     "database-client.openResultsAsVertically": false,
     "chat.viewSessions.orientation": "stacked",
@@ -115,5 +113,5 @@
     "extensions.autoUpdate": "off",
     "update.mode": "none",
     "network.meteredConnection": "on",
-    "security.workspace.trust.banner": "always"
+    "window.commandCenter": false
 }
