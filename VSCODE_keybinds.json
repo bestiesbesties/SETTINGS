@@ -5,8 +5,24 @@
         "when": "terminal.active"
     },
     {
-        "key": "shift shift",
+        "key": "cmd+o",
         "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "ctrl+o",
+        "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "shift shift",
+        "command": "workbench.action.terminal.runRecentCommand"
+    },
+    {
+        "key": "cmd+shift+b",
+        "command": "workbench.action.toggleAuxiliaryBar"
+    },
+    {
+        "key": "ctrl+shift+b",
+        "command": "workbench.action.toggleAuxiliaryBar"
     },
     {
         "key": "shift+cmd+c",

@@ -1,4 +1,8 @@
 {
+    "terminal.integrated.suggest.enabled": true,
+    "terminal.integrated.shellIntegration.enabled": true,
+    "terminal.integrated.suggest.quickSuggestions": true,
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": true,
     "editor.fontFamily": "Arial",
     "editor.autoClosingBrackets": "never",
     "editor.autoClosingComments": "never",
@@ -29,8 +33,8 @@
     "editor.cursorStyle": "line",
     "editor.showFoldingControls": "never",
     "editor.overviewRulerBorder": false,
-    "editor.tabCompletion": "off",
-    "terminal.integrated.fontFamily": "Melno",
+    "editor.tabCompletion": "on",
+    "terminal.integrated.fontFamily": "monospace",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
     "extensions.ignoreRecommendations": true,
     "python.defaultInterpreterPath": "/usr/local/bin/python3",
@@ -110,5 +114,6 @@
     "update.showReleaseNotes": false,
     "extensions.autoUpdate": "off",
     "update.mode": "none",
-    "network.meteredConnection": "off"
+    "network.meteredConnection": "on",
+    "security.workspace.trust.banner": "always"
 }

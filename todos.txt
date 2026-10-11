@@ -7,6 +7,5 @@ fix LineColor selection logics (Document annotation software inspiration)
 ensure disable auto update
 
 show all hidden files command als quirk
-normalize ctrl + p (comands), ctrl + o (notities), shift sahift (pallete)
-normalize tab swittching
+normalize tab swittching?
 universel trackpad speed (delete dependencies)
