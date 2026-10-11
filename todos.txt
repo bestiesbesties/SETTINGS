@@ -1,0 +1,12 @@
+<! github automation to make task for each todo
+
+side by side vscode (ctrl + b, ctrl + shift + b)
+higher amount python smartsend output lines (currently caps arround 300 lines)
+automatic wordwrap for only lines containing strings
+fix LineColor selection logics (Document annotation software inspiration)
+ensure disable auto update
+
+show all hidden files command als quirk
+normalize ctrl + p (comands), ctrl + o (notities), shift sahift (pallete)
+normalize tab swittching
+universel trackpad speed (delete dependencies)
